@@ -38,7 +38,7 @@ This document presents the design of a scalable, highly available, and secure we
 
 The diagram below illustrates the system’s architecture:
 
-![Architecture Diagram](aws project.png)
+![Architecture Diagram](aws%20project.png)
 
 ---
 
